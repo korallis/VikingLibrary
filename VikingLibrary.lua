@@ -51,6 +51,7 @@ local tColors = {
   purple      = "28253a",
   yellow      = "ffd161",
   orange      = ""
+  purple      = "C674da", -- Current purple Esper Focus Bar --
 }
 
 -----------------------------------------------------------------------------------------------
